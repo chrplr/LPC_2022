@@ -1,0 +1,6 @@
+,"""Predictable end"" sentence","""Unpredictable end"" sentence",Taget word,Nb lpc gestures/nb words,Unnamed: 4,Unnamed: 5,pred_end_n_LPC,unpred_end_n_LPC
+0,Les deux jeunes étudiants se sont rencontrés et sont rapidement tombés amoureux.,Les collègues ne s'attendent pas à revenir là où ils se sont rencontrés.,amoureux,1: / ; 2: /,,,"20, except ['rapidement']","17, except [""s'attendent"", 'revenir']"
+1,"Les jours ensoleillés, Jake se rend au parc pour promener son chien.",Les jeunes femmes avaient toujours aimé se balader pendant la nuit.,chien,1: / ; 2: /,,,"17, except ['ensoleillés,', 'jake']",20
+2,Briser un miroir vous causera des années de malheur. ?,Les collègues ne s'attendent pas à revenir là où ils se sont rencontrés.,chaude,1: / ; 2: /,,,"15, except ['causera', '?']","17, except [""s'attendent"", 'revenir']"
+3,Lily l’avait détesté dès le moment où ils s'étaient rencontrés.,Les collègues ne s'attendent pas à revenir là où ils se sont rencontrés.,rencontrés,1: / ; 2: /,,"- Created corresponding ""Unpredictable end"" sentences:","15, except ['lily', 'l’avait', ""s'étaient""]","17, except [""s'attendent"", 'revenir']"
+4,Les faux jumeaux étaient aussi différents que le jour et la nuit.,Les jeunes femmes avaient toujours aimé se balader pendant la nuit.,nuit,1: / ; 2: /,,,18,20
