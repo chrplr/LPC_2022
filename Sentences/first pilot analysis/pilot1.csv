@@ -1,0 +1,59 @@
+﻿,EDITED,type,target
+Est-ce que le français est votre langue maternelle ?,{'oui': 26},,
+Quel est votre sexe ?,"{'femme': 18, 'homme': 8}",,
+Quel est votre âge ?,"{'18 - 25': 13, '26 - 35': 9, '56 - 65': 3, '46 - 55': 1}",,
+Quelle est votre nationalité ?,"{'la france': 21, 'la belgique': 4, 'tunisienne': 1}",,
+Quel est le plus haut diplôme que vous ayez obtenu?,"{'master ou équivalent': 14, 'bts, dut, licence ou équivalent': 5, 'baccalauréat général, technologique, professionnel ou équivalent': 3, 'brevet des collège, bepc': 2, ""certificat d'études primaires"": 1, 'doctorat': 1}",,
+Les deux étudiants se sont rencontrés et sont rapidement tombés,"{'amoureux ': 24, 'dans le trou': 1, 'raides': 1}",Pred,amoureux
+"Les jours ensoleillés, Jacques se rend au parc pour promener son","{'chien': 25,'dinosaure': 1}",Pred,chien
+Faites attention à ne pas toucher la poêle quand elle est,"{'chaude': 23, 'brûlante ': 3}",Pred,chaude
+Briser un miroir vous causera beaucoup de,"{'malheur': 12,  'soucis': 4, 'malchance ': 3, 'débris': 2,  'porte malheur ': 1, 'problème': 1, 'peine': 1, 'dégâts ': 1,'tort': 1}",Pred,malheur
+Émilie l’avait détesté dès le moment où ils s'étaient,"{'rencontrés':18, 'vus': 7, 'envolée ': 1}",Pred,rencontrés
+Les faux jumeaux étaient aussi différents que le jour et la,"{'nuit': 25, 'bar mitsva': 1}",Pred,nuit
+La petite fille était contente de perdre sa première ,"{'dent': 22, 'amie': 1, 'fois': 1, 'bague': 1, 'douche': 1}",Pred,dent
+"Ce couteau ne coupe pas, sa lame est complètement","{'émoussée': 7, 'cassé': 3, 'brisée': 2, 'user ': 2, 'abîmée ': 2, 'plate': 2, 'ébréchée': 1, 'limée ': 1, 'abîmée': 1, 'pointu': 1, 'lisse': 1, 'rouillée ': 1, 'rayée ': 1, 'innofensive': 1}",Pred,usée
+"Au concert de rock, la musique était trop","{'forte': 20, 'bonne': 2, 'intense': 1, 'cool': 1, 'bruyante ': 1, 'bien': 1}",Pred,forte
+"Pour fêter son départ, ses amis lui ont organisé une","{'fête ': 19, 'soirée': 4, 'surprise ':2, 'teuf': 1}",Pred,fête
+"Pendant la randonnée, les pieds de Lila lui faisaient plus mal à chaque","{'pas': 24,'fois': 2}",Pred,pas
+Thais était en retard et n'arrêtait pas de regarder sa,"{'montre': 24, 'copine': 1, 'chatte': 1}",Pred,montre
+Le petit oiseau s'est cassé une aile et ne peut plus,"{'voler': 23, 'vivre': 1, 'bouger': 1, 'partir': 1}",Pred,voler
+La couleur la plus associée à la colère est le,"{'rouge': 20, 'noir': 4, 'bleu': 1, 'deuil': 1}",Pred,rouge
+Les tensions entre les pays pourraient aboutir à la,"{'guerre': 25, 'guerre mondial': 1}",Pred,guerre
+Gaspard était perdu et ne savait pas quoi,"{'faire': 19, 'dire': 3, 'répondre ': 3, 'acheter ': 1}",Pred,faire
+La mère inquiète avait plusieurs bouches à,"{'nourrir': 22, 'remplire': 1, 'trou': 1, 'oreilles': 1, 'cuire ': 1}",Pred,nourrir
+Arielle a été licenciée et recherche un autre,"{'emploi': 11, 'travail': 7, 'job': 3, 'boulot': 3, 'contrat': 1, 'poste': 1}",Pred,emploi
+"En cuisinant, Luc s'est coupé le doigt avec un","{'couteau': 25, 'ciseau ': 1}",Pred,couteau
+Gilles préfère les films comiques qui le font,"{'rire': 24, 'rigoler ': 1, 'fire': 1}",Pred,rire
+"Après avoir rendu sa copie, Lucie a réalisé qu'elle avait fait une","{'erreur': 13, 'faute': 10, 'salsa': 1, 'connerie': 1, 'tache': 1}",Pred,erreur
+"Selon la Bible, le meurtre est un très grave","{'péché': 12, 'crime': 9, 'délit ': 2, 'aspect ': 1, 'acte': 1, 'méfait': 1}",Pred,péché
+"Après s'être lavé les mains, Nathan les a séchées avec une",{'serviette': 26},Pred,serviette
+Les hommes ont failli tomber dans le trou qu'ils avaient,"{'creusé': 23, 'fait': 3}",Pred,creusé
+"Le garçon n'avait rien fait de mal, et la punition n'était pas","{'juste': 10, 'justifiée': 5, 'forte': 2, 'claire': 1, 'méritée ': 1, 'longue ': 1, 'appropriée': 1, 'adaptée': 1, 'mesurée': 1, 'raisonnable ': 1, 'proportionnée ': 1, 'méchante ': 1}",Pred,juste
+Chris dit que son chien avait toujours été son meilleur,"{'ami': 25,'compagnon': 1}",Pred,ami
+Elles étaient venu voir le maire mais il avait encore,"{'disparu': 4, 'refusé': 3, 'mal': 2, 'un rendez-vous ': 1, 'une réunion': 1, 'oublie': 1, 'faim': 1, 'du travail ': 1, 'oublié': 1, 'fugué ': 1, 'une réunion ': 1, 'bu ': 1, 'planter': 1, 'ignorer ': 1, 'repoussé': 1, 'bu': 1, 'annule ': 1, 'annulé': 1, 'des rendez-vous ': 1, 'froid': 1}",unpred,disparu
+Dans cette boite se cache un,"{'cadeau ': 3, 'lapin': 1, 'demon': 1, 'indice': 1, 'insecte': 1, 'trésor ': 1, 'œuf': 1, 'scarabée': 1, 'chat ': 1, 'trésor': 1, 'diable': 1, 'jeu': 1, 'carnet ': 1, 'secret': 1, 'canard': 1, 'chapeau ': 1, 'gâteau ': 1, 'pervert ': 1, 'tresor': 1, 'hamster': 1, 'cadeau': 1, 'jouet ': 1, 'cloon': 1, 'bonbon': 1}",unpred,chiot
+Cet espace peut en stocker une,"{'grande': 4, 'grosse': 3, 'autre': 3, 'tonne': 2, 'dizaine ': 1, 'tripotée ': 1, 'girafe': 1, 'partie': 1, 'dizaine': 1, 'caravane ': 1, 'gourde': 1, 'ou deux ': 1, 'longue ': 1, 'fusée': 1, 'grande quantité ': 1, 'majorité ': 1, 'blala': 1, 'centaine': 1}",unpred,tonne
+Elle ne l'écoutait plus car il racontait la même,"{'histoire ': 13, 'chose': 9, 'merde': 3, 'rengaine': 1}",unpred,blague
+Ce plat est beaucoup trop,"{'salé': 5, 'chaud': 4, 'épicé': 4, 'bon': 3, 'lourd': 2, 'copieux': 2, 'chian': 1, 'épicé ': 1, 'cher': 1, 'fort': 1, 'gras ': 1, 'grand ': 1}",unpred,acide
+L'étudiant est très vite allé acheter un nouvel,"{'ordinateur': 15, 'appartement': 5, 'iphone': 2, 'aspirateur ': 1, 'ensemble': 1, 'pain': 1, 'appareil photo ': 1}",unpred,hameçon
+Il a rapidement demandé un rendez-vous après avoir relu son nouveau,"{'contrat': 12, 'livre': 2, 'mail': 1, 'manuscrit ': 1, 'résultat ': 1, 'chapitre': 1, 'bilan': 1, 'scanner': 1, 'bulletin ': 1, 'resultat': 1, 'examen': 1, 'compte rendu ': 1, 'numéro ': 1, 'testament ': 1}",unpred,contrat
+"Après avoir été lavé, le col n'était plus taché de","{'sang': 13, 'vin': 2, 'sauce ': 2, 'tomate': 1, 'cafe au lait ': 1, 'chocolat ': 1, 'noir': 1, 'la même façon ': 1, 'vinaigre': 1, 'cafe ': 1, 'suie': 1, 'rouge à lèvres ': 1}",unpred,boue
+"Pour avoir participé à la course, l'enfant a reçu un","{'prix': 14, 'bonbon': 3, 'brassard': 1, 'couteau ': 1, 'diplôme ': 1, 'certificat ': 1, 'avoir': 1, 'trophée ': 1, 'vélo ': 1, 'cadeau': 1, 'certificat': 1}",unpred,badge
+La boutique d'accessoires était dans un quartier éloigné de la,"{ 'ville': 10, 'gare': 8,'place ': 1, 'seine': 1, 'place': 1, 'capitale': 1, 'mairie ': 1, 'maroquinerie': 1, 'fac': 1, 'plage': 1}",unpred,foule
+Dina a été surprise d'apprendre que son meilleur ami était,"{'gay': 13,'homosexuel': 2, 'malade': 3, 'partie': 1, 'avec sa meilleure amie ': 1, 'amoureux ': 1, 'malheur ': 1, 'parti': 1, 'déprimé ': 1, 'divorcé': 1, 'belge': 1}",unpred,mort
+Il a dit à son frère qu'il devait vraiment se,"{'dépêcher ': 8, 'taire': 3, 'marier': 3, 'calmer': 2, 'faire couper les cheveux ': 1, 'reposer': 1, 'marier ': 1, 'laver': 1, 'fâcher': 1, 'calmer ': 1, 'coucher ': 1, 'chier': 1, 'méfier ': 1, 'voir': 1}",unpred,raser
+Il est entré dans cette chambre et est maintenant,"{'endormi': 5, 'coincé ': 2, 'sortir ': 2, 'la': 1, 'seul': 1, 'triste ': 1, 'fatigué ': 1, 'choqué': 1, 'enfermé': 1, 'couché': 1, 'assis': 1, 'allongé ': 1, 'debout ': 1, 'sortie': 1, 'resté': 1, 'dedant ': 1, 'immobile': 1, 'tranquille ': 1, 'allongé': 1, 'bloqué': 1}",unpred,malade
+Elle s'est acheté une tenue pour son,"{'mariage': 10, 'anniversaire ': 7, 'bal': 2, 'bac': 1, 'plaisir ': 1, 'nouvel an': 1, 'gala': 1, 'rendez-vous': 1}",unpred,anniversaire
+Hugo regardait la grande fontaine que sa mère avait,"{'construite': 4, 'faite': 3, 'peinte ': 3, 'dessiné': 3, 'creusée': 2, 'décrite ': 1, 'décorée': 1, 'photographié': 1, 'repeinte': 1, 'remplie d’eau ': 1, 'construit': 2, 'remplie': 1,'montre': 1, 'visiter ': 1, 'créée': 1}",unpred,construite
+"Pour ne pas avoir faim, il aurait dû manger plus","{'lentement ': 4, 'tard ': 3, 'souvent': 3, 'tôt': 2, ' de soupe': 1, 'vite': 1, 'chaud': 1, 'gras': 1, 'de pâtes ': 1, 'encore': 1, 'oui': 1, 'de bonbon': 1, 'de mac&cheese': 1, 'de pain': 1, 'proteiné ': 1, 'de féculents': 1, 'de poisson ': 1, 'de chocolat ': 1}",unpred,vite
+"Après l'élection municipale, toute la ville était en","{'fête': 5, 'furie ': 3, 'colère ': 2, 'émoi': 3, 'liesse': 2, 'vacances': 1, 'pleur': 1, 'heureuse': 1, 'débandade': 1, 'ébullition': 1, 'feu': 1, 'attente ': 1, 'choque': 1, 'suspense ': 1, 'deuil': 1, 'itali': 1}",unpred,désordre
+"Pour réussir à l'examen, Emma ne manquait pas de","{'chance': 2, 'travailler ': 2, 'courage': 2, 'connaissances ': 1, 'sommeil': 1, 'cran': 1, 'connaissances': 1, 'volonté ': 1, 'réviser': 1, 'savoir': 1, 'talent': 1, 'reviser': 1, 'entraînement': 1, 'lettre': 1, 'révisons ': 1, 'toupet': 1, 'stratégies': 1, 'réviser ': 1, 'préparation': 1, 'temps': 1, 'temps ': 1, 'cocaine': 1, 'ressources': 1}",unpred,forces
+Elle doit encore apprendre à utiliser les bons,"{'mots': 9, 'outils': 7, 'termes': 4, 'sentiment ': 1, 'achat': 1, 'couverts ': 1, 'ingrédient': 1, 'arguments ': 1, 'plans': 1}",unpred,outils
+"Après quelques mois, ils ont engagé un homme pour tout","{'faire': 11, 'organiser ': 2, 'nettoyer': 3, 'arranger ': 2, 'ranger ': 1, 'gérer': 1, 'régler ': 1, 'détruire ': 1, 'réparer ': 1, 'aider': 1, 'réorganiser': 1, 'contrôler ': 1}",unpred,laver
+Camille était très surprise que son mari n'ait pas,"{'mangé': 4, 'chanté': 2, 'appelé': 1, 'participé': 1, 'sauté ': 1, 'réussit ': 2, 'd’amis': 1, 'pensé': 1, 'percuté': 1, 'fait la vaisselle ': 1, 'vu': 1, 'revenue': 1, 'dormi ': 1, 'bu': 1, 'essayé': 1, 'le covid': 1, 'appelé ': 1, 'répondu ': 1, 'une voiture ': 1, 'une montre': 1, 'là': 1}",unpred,gagné
+En regardant son livre il a deviné l'espèce de,"{'chien': 3, 'chose': 2, 'vache ': 1, 'crétin': 1, 'tortue': 1, 'mammifère ': 1, 'classification': 1, 'couverture ': 1, '?': 1, 'poisson ': 1, 'singe': 1, 'plante': 1, ""d'écriture"": 1, 'personne ': 1, 'chat': 1, 'malentendu ': 1, 'mammifères ': 1, 'papier': 1, 'lézard': 1, 'l’histoire ?': 1, 'roman ': 1, 'extra terrestre ': 1, 'champignon': 1}",unpred,abeille
+L'équipe s'est entrainée de très longues semaines sur son,"{'terrain': 8, 'match': 2, 'projet': 3, 'sujet': 2,'programme ': 2, 'spectacle': 1, 'coup de pied': 1, 'travail ': 1, 'concert': 1, 'devoir': 1, 'parcourt': 1, 'organisation ': 1, 'terrain ': 1, 'marathon ': 1}",unpred,bateau
+Le vieil homme était assis et s'est brusquement mis à,"{'pleurer': 5, 'crier': 3, 'bouger': 2, 'courrir': 2, 'gémir ': 1, 'danser': 1, 'tituber': 1, 'trembler': 1, 'bailler': 1, 'chanter': 1, 'convulser ': 1, 'ronfler ': 1, 'terre': 1, 'rire': 1, 'huirr': 1, 'bouger ': 1, 'rigoler ': 1, 'voler': 1}",unpred,pleurer
+"Pour aider la famille de sa femme, Diego a organisé tout","{'le mariage': 3, 'seul': 2, 'le trajet': 2, 'lui-même': 4, 'leur déménagement ': 1, 'le déménagement ': 1, '?': 1, 'rapidement ': 1, 'ça': 1, ""l'evenement"": 1, 'lendroit': 1, 'une fête ': 1, 'placards ': 1, 'l’événement ': 1, 'le repas': 1, 'les travaux': 1, 'ce qu’il fallait ': 1, 'argent ': 1, 'finement ': 1}",unpred,enterrement
+Mon professeur m'a dit qu'il avait toujours eu peur de la,"{'mort': 8, 'directrice ': 2, 'foule': 2, 'guerre': 2, 'mer': 2, 'hauteur': 1, 'nuit': 1, 'rouille': 1, 'foule ': 1, 'musique ': 1, 'voie lactée': 1, 'défaite': 1, 'foudre': 1, 'retraite': 1, 'varicelle ': 1}",unpred,pauvreté
+Je suis allé acheter un,"{'pain': 5, 'livre': 3, 'parapluie ': 2, 'téléphone ': 1, 'vélo': 1, 'poisson': 1, 'gâteau ': 1, 'cartable': 1, 'journal ': 1, 'couteau': 1, 'tricycle ': 1, 'calcon': 1, 'sandwich ': 1, 'navet': 1, 'pain au chocolat ': 1, 'habit ': 1, 'croissant ': 1, 'mouton ': 1, 'chat': 1}",unpred,chat

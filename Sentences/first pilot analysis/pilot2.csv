@@ -1,0 +1,59 @@
+﻿,EDITED,type,target
+Est-ce que le français est votre langue maternelle ?,{'oui': 26},,
+Quel est votre sexe ?,"{'femme': 18, 'homme': 8}",,
+Quel est votre âge ?,"{'18 - 25': 13, '26 - 35': 9, '46 - 55': 2, '36 - 45': 2}",,
+Quelle est votre nationalité ?,"{'la france': 25, 'tunisienne ': 1}",,
+Quel est le plus haut diplôme que vous ayez obtenu?,"{'master ou équivalent': 15, 'doctorat': 6, 'bts, dut, licence ou équivalent': 5}",,
+Les deux voisins ont discuté et ont compris qu'ils étaient,"{""d'accord"": 5,'cousins': 3, 'frères ': 3, 'amis': 3, 'collègues ': 2, 'ennemis': 1,  'pareils': 2, 'proches': 1, 'amoureux': 1, 'potes': 1, 'voisins': 1, 'laids': 1,, 'gentils': 1}",Unpred,amoureux
+"Toutes les semaines, le médecin reçoit cette femme avec son vieux","{'mari': 9, 'chien': 6, 'père': 5, 'manteau': 3, 'chapeau': 2, 'chat': 1}",Unpred,chien
+Attendons-nous à ce que cette maison ne soit pas vraiment,"{'belle': 5, 'propre': 3, 'hantée': 2, 'rangée': 2, 'vendue': 1, 'solide': 1, 'confortable': 1, 'construite': 1, 'adaptée ': 1, 'agréable à vivre ': 1, 'chauffée': 1, 'insonorisée': 1, 'construite ': 1, 'habitable': 1, 'en vente': 1, 'vide': 1, 'isolée': 1, 'close': 1}",Unpred,chaude
+Parler à Ines vous éclairera sur son,"{'parcours': 6, 'projet': 4, 'origine': 2, 'chemin ': 2, 'opinion': 2, 'orientation': 2, 'passé': 2, 'caractère': 2, 'avis': 1, 'avenir ': 1, 'moral': 1, 'tempérament ': 1}",Unpred,malheur
+Les cuisiniers ne savaient plus comment ils s'étaient,"{'rencontrés': 9, 'débrouillés': 2, 'organisés': 2, 'coupés': 2, 'habillés ': 1, 'approvisionnés': 1, 'trompés ': 1, 'pris': 1, 'perdus ': 1, 'habillé': 1, 'fait mal': 1, 'battus': 1, 'trompé': 1, 'perdus': 1, 'retrouvés': 1}",Unpred,rencontrés
+Elles aimaient beaucoup la liberté que leur offrait la,"{'vie': 7, 'voiture': 3, 'directrice': 2, 'nation ': 1, 'république ': 1, 'fleur': 1, 'pétanque ': 1, 'plage': 1, 'prison': 1, 'nourriture': 1, 'campagne': 1, 'mer': 1, 'france ': 1, 'rémunération acquise ': 1, 'société ': 1, 'route': 1, 'suisse': 1}",Unpred,nuit
+Le pauvre homme s'inquiétait toujours de perdre une nouvelle,"{'fois': 8, 'amie': 6, 'chaussure': 2, 'dent': 2,'voiture': 1, 'pièce ': 1, 'chaussette ': 1, 'fille': 1, 'compagne': 1, 'montre': 1, 'clef': 1, 'écharpe ': 1}",Unpred,dent
+"Pour se réchauffer, il a mis une couverture très","{'chaude': 14, 'épaisse': 12}",Unpred,usée
+"Avec le poisson, la sauce n'était pas très","{'bonne': 16,  'salée': 2, 'fraiche': 1, 'nécessaire ': 1, 'équilibrée': 1, 'assortie': 1, 'forte': 1, 'adaptée ': 1, 'blanche': 1,'assaisonnée ': 1}",Unpred,forte
+"De leur chambre, les enfants entendaient bien les bruits de la","{'rue': 4, 'maison ': 3, 'pluie': 2, 'fête': 2, 'cuisine ': 2, 'voisine': 2, ""cour d'école "": 1, 'dispute': 1, 'voiture': 1, 'télévision': 1, 'salle à manger ': 1, 'cuisine': 1, 'mer': 1, 'fenêtre': 1, 'porte': 1, 'tondeuse': 1, 'machine à laver': 1}",Unpred,fête
+"Pendant la réunion, les enfants de sa sœur ont décidé de faire un","{'jeu': 6, 'gâteau ': 3, 'cadeau ': 2, 'spectacle': 1, 'break': 1, 'concert': 1, 'spectacle ': 1, 'goûter': 1, 'mechoui ': 1, 'enfant': 1, 'esclandre': 1, 'puit': 1, 'jeux': 1, 'voyage': 1, 'cache cache': 1, 'barbecue': 1, 'dessin': 1, 'puzzle': 1}",Unpred,pas
+Elsa était tombée par terre et avait encore cassé sa,"{'jambe': 6, 'montre': 4, 'cheville': 2, 'côte ': 1, 'coque de téléphone ': 1, 'poupée ': 1, 'pipe': 1, 'canne': 1, 'tasse': 1, 'chaîne': 1, 'paire de lunette ': 1, 'valise': 1, 'chaussure': 1, 'voiture': 1, 'table': 1, 'robe ': 1}",Unpred,montre
+Un scarabée est sorti du sac et a commencé à,"{'grimper': 10, 'voler': 8, 'courir': 5, 'manger': 1, 'brouter ': 1, 'avancer': 1}",Unpred,voler
+Sa nouvelle chambre a un mur entièrement peint en,"{'rose': 10, 'bleu': 7, 'blanc': 3, 'jaune': 2, 'noir': 1, 'rouge ': 1, 'vert': 1, 'orange': 1}",Unpred,rouge
+Les marchands de légumes n'ont pas l'habitude de faire la,"{'manche': 11, 'queue': 2, 'monnaie': 2, 'mendicité ': 1, 'fête ': 1, 'cuisine': 1, 'causette': 1, 'police': 1, 'charcuterie': 1, 'vente': 1, 'guerre': 1, 'conversation ': 1, 'vaisselle': 1, 'caisse': 1}",Unpred,guerre
+Léo était choqué devant cette chose étrange à,"{'manger': 5, 'observer': 3, 'lui': 2, 'regarder': 2, 'droite': 1, 'franges': 1, 'rayures ': 1, 'sa droite': 1, 'paris': 1, 'epines': 1, 'lire ': 1, ""l'envers"": 1, 'prendre': 1, 'loquet': 1, 'digérer ': 1, 'souhait': 1, 'voir': 1, 'lui-même ': 1}",Unpred,faire
+Mon frère possédait des animaux difficiles à,"{'dresser': 4, 'dompter': 3, 'domestiquer': 3, 'éduquer ': 2, 'garder': 2, 'apprivoiser': 2, 'elever': 2, 'maîtriser ': 1, 'entretenir ': 1, 'attraper ': 1, 'alimenter': 1, 'gérer ': 1, 'capturer ': 1,'caresser': 1, 'nourrir': 1}",Unpred,nourrir
+Arthur a cherché et a rapidement retrouvé un,"{'appartement': 8, 'emploi': 5, 'chat': 2, 'œuf': 1, 'badge': 1, 'pantalon': 1, 'travail': 1, 'remède': 1, 'indice': 1, 'chien': 1, 'travail ': 1, 'papier': 1, 'cahier': 1, 'job': 1}",Unpred,emploi
+"En rentrant, Léa trouva sur la table son vieux","{'livre': 3, 'carnet': 3, 'sac': 2,  'journal': 2, 'téléphone': 2,'manteau': 2, 'agenda': 1, 'peignoir': 1, 'calepin': 1, 'bouquin': 1, 'pc': 1, 'jean ': 1, 'revolver': 1,'chapeau ': 1, 'ordinateur ': 1, 'manteau ': 1, 'cartable': 1, 'châle': 1}",Unpred,couteau
+Alice lit un vieux roman d'aventure qui la fait,"{'rêver': 9, 'voyager': 4, 'rire': 3, 'frissonner': 2, ""s'évader"": 2,'vibrer': 1, 'rougir ': 1, 'fremir': 1, 'sourire': 1, 'dormir ': 1, 'pleurer': 1}",Unpred,rire
+"Avant de répondre, Louis a regardé si le résumé comportait une","{'faute': 5, 'erreur': 3, 'indication': 2, 'image': 2, 'consigne': 1, 'épitaphe': 1, 'introduction ': 1, 'phrase': 1, 'faute ': 1, 'reduction ': 1, 'explication ': 1, 'introduction': 1, 'lettre': 1, 'conclusion ': 1, 'cgu': 1, 'légende ': 1, 'aide': 1, 'adresse': 1}",Unpred,erreur
+"Dans leur culture, la curiosité avait toujours été un","{'défaut': 16, 'atout': 8, 'handicap ': 1, 'péché': 1}",Unpred,péché
+"Dès leur retour à la maison, Valentin lui a donné une","{'claque': 4, 'sucette': 3, 'gifle': 3, 'fleur': 2, 'pomme': 2, 'suprise': 2, 'réponse ': 1, 'tasse': 1, 'cigarette': 1,  'compote  ': 1, 'récompense': 1, 'leçon': 1, 'lettre': 1, 'crêpe ': 1, 'fessée': 1, 'rose': 1}",Unpred,serviette
+Les soldats passent toujours par le chemin qu'ils ont,"{'emprunté': 5, 'creusé': 3, 'tracé': 2, 'tracés': 2, 'repéré ': 2, 'anticipé': 1, 'créé': 1, 'décides ': 1, 'baliser': 1, 'planifié': 1, 'fait ': 1, 'construit ': 1, 'découvert ': 1, 'débroussaillé': 1, 'nettoyé': 1, 'élagué ': 1, 'appris': 1}",Unpred,creusé
+"La comptable venait d'arriver, et pensait que son salaire n'était pas","{'fixe': 4, 'versé ': 2, 'suffisant': 2, 'assez': 2, 'adéquat ': 2, 'bon': 1, 'paye': 1, 'élevé ': 2, 'garanti': 1, 'soldé': 1, 'viré': 1, 'ajuster à sa prestation ': 1, 'compté': 1, 'autant ': 1, 'fiable': 1, 'prévu ': 1, 'correct': 1, 'adapté': 1}",Unpred,juste
+Julia était de nouveau partie en vacances avec son,"{'copain': 12, 'ami': 4, 'chien': 3, 'chéri ': 2, 'père ': 2, 'petit frère': 1, 'compagnon': 1, 'amoureux': 1}",Unpred,ami
+Ils ont cherché le voleur mais celui-ci avait déjà,"{'disparu': 12, 'fuit': 7, 'parti': 4,'filé': 2,'volé': 1}",Pred,disparu
+Un très jeune chien s'appelle un,"{'chiot': 25, 'clebard': 1}",Pred,chiot
+L'énorme valise semblait peser une,{'tonne': 26},Pred,tonne
+J'ai caché ses clés pour lui faire une mauvaise,"{'blague': 16, 'surprise': 8, 'frayeur': 1, 'farce': 1}",Pred,blague
+Le jus de citron est très,"{'acide': 24, 'frais': 1, 'bon ': 1}",Pred,acide
+Le pêcheur a accroché un ver de terre sur l',"{'le hameçon': 12, 'canne': 8, 'lui': 2, 'terre': 1, 'moi': 1, 'il manque un article ici': 1, 'ligne': 1}",Pred,hameçon
+Il voulait travailler pour mon entreprise et n'a pas hésité à signer le,"{'contrat': 21, 'baille': 2, 'dossier': 2, 'document': 1}",Pred,contrat
+"Après une ballade dans les champs, mes bottes étaient couvertes de","{'boue': 24, 'terre': 2}",Pred,boue
+"Pour entrer dans la maison, l'inspecteur a dû montrer son","{'badge': 18, 'mandat': 3, 'insigne': 3, 'passeport': 1, 'pass': 1}",Pred,badge
+L'annonce de soldes très importantes a attiré une immense,"{'foule': 22, 'attention': 1, 'majorité de soldats': 1, 'cohue': 1, 'attente': 1}",Pred,foule
+Manon a été triste de découvrir que son poisson rouge était,"{'mort': 25, 'décédé': 1}",Pred,mort
+Elle a suggéré à son petit ami barbu de se,"{'raser': 22, 'taire': 2, 'retourner ': 1, 'laver': 1}",Pred,raser
+Il avait peur des microbes et craignait de tomber,"{'malade': 25, 'dessus': 1}",Pred,malade
+La fillette a reçu ce cadeau pour son,"{'anniversaire': 24,'grand-père': 1, 'diplome': 1}",Pred,anniversaire
+Albert vivait dans une cabane qu'il avait lui-même,"{'construite': 17, 'fabriquée': 4, 'confectionné': 2, 'faite': 1, 'aménagé': 1, 'peinte': 1}",Pred,construite
+Pour arriver à temps il aurait dû marcher plus,"{'vite': 23, 'rapidement ': 3}",Pred,vite
+"Avec des vêtements éparpillés partout, sa chambre était en","{'bazar': 9, 'désordre': 8, 'pagaille': 4, 'bordel': 3, 'chantier': 1,'fouilli': 1}",Pred,désordre
+"Pour ouvrir la porte, Thomas a tiré de toutes ses",{'forces': 26},Pred,forces
+Robert pourrait réparer le vélo s'il avait de meilleurs,"{'outils': 19, 'compétences': 2, 'notes': 1, 'amis': 1, 'associés': 1, 'moyens ': 1, 'revenus': 1}",Pred,outils
+"Après deux semaines, il y avait plein de vêtements sales à","{'laver': 25, 'vendre': 1}",Pred,laver
+Kevin était deçu que son équipe de basket n'ait pas,"{'gagné': 24, 'qualifiée': 1, 'd’ambition ': 1}",Pred,gagné
+En s'approchant d'une ruche elle a été piquée par une,"{'abeille': 23, 'guêpe': 3}",Pred,abeille
+Le pêcheur aimait passer la journée en mer sur son,"{'bateau': 24, 'navire': 1, 'rafiot': 1}",Pred,bateau
+La petite fille s'est cognée et s'est immédiatement mise à,"{'pleurer': 23, 'saigner': 3}",Pred,pleurer
+"Pour honorer la mort de son collègue, Kim a assisté à son",{'enterrement': 26},Pred,enterrement
+Il apprécie la richesse car il a grandi dans la,"{'pauvreté': 17, 'rue': 2, 'luxure': 2, 'classe aisée ': 1, 'misère ': 1, 'soie ': 1, 'frustration ': 1, 'bourgeoisie ': 1}",Pred,pauvreté
+J'ai entendu miauler un,{'chat': 26},Pred,chat
